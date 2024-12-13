@@ -25,7 +25,7 @@ var R6MLangTermsFrench = (function(R6MLangTerms, undefined) {
         supportSiteNote: 'Montrez votre soutien grâce à un petit don.',
         donateImg: 'https://www.paypalobjects.com/fr_FR/i/btn/btn_donate_LG.gif',
         latestUpdate: 'Mise à jour avril 2020',
-        linkLatestUpdate: 'https://github.com/purechaose/r6maps/releases'
+        linkLatestUpdate: 'https://github.com/eingabe-team/r6maps/releases'
       },
       sessions: {
         button: 'FR-Sessions (BETA)'
