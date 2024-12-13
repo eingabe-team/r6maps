@@ -1,7 +1,7 @@
 # r6maps
-[![Build Status](https://travis-ci.com/purechaose/r6maps.svg?branch=master)](https://travis-ci.com/purechaose/r6maps)
+[![Build Status](https://travis-ci.com/eingabe-team/r6maps.svg?branch=master)](https://travis-ci.com/eingabe-team/r6maps)
 
-**Newest version now auto-hosted at https://purechaose.github.io/r6maps**
+**Newest version now auto-hosted at https://eingabe-team.github.io/r6maps**
 
 r6maps is designed to be a quick reference for Rainbow Six Siege maps.  Please see the about.html page for more details.
 
@@ -32,9 +32,9 @@ Current development is fairly "steady state" with only a few new features planne
 - [ ] Select map filter for casual, rank, custom, etc
 
 ### Steady-state
-- [ ] Translations - [info on how you can help](https://purechaose.github.io/r6maps/about/translations-help.html).
-- [ ] [Open issues](https://github.com/purechaose/r6maps/issues)
-- [ ] Map accuracy - please log any errors/missing items as an [issue](https://github.com/purechaose/r6maps/issues)
+- [ ] Translations - [info on how you can help](https://eingabe-team.github.io/r6maps/about/translations-help.html).
+- [ ] [Open issues](https://github.com/eingabe-team/r6maps/issues)
+- [ ] Map accuracy - please log any errors/missing items as an [issue](https://github.com/eingabe-team/r6maps/issues)
 - [ ] New maps
 
 ### Thinking about (maybe someday)...
