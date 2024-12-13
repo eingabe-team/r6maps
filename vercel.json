@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "site",
+  "public": true,
+  "regions": ["arn1"],
+  "alias": ["eingabe.team", "r6maps"]
+}
