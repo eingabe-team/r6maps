@@ -8,9 +8,9 @@ var R6MLangTerms = (function(undefined) {
     translations = {},
     englishTerms = {
       general: {
-        pageTitle: 'R6Maps.com - {mapName}',
-        pageTitleSelectMap: 'R6Maps.com - Select a map',
-        pageTitleStart: 'R6Maps.com',
+        pageTitle: 'r6maps - eingabe.team - {mapName}',
+        pageTitleSelectMap: 'r6maps - eingabe.team - Select a map',
+        pageTitleStart: 'r6maps - eingabe.team',
         cameraViewCaption: '{floorName} Camera View',
         shortcutTip: 'Shortcut: {shortcut}',
         menu: 'Menu',
@@ -118,8 +118,8 @@ var R6MLangTerms = (function(undefined) {
         e: 'E'
       },
       stats: {
-        title: 'R6Maps.com - Stats',
-        titleBeta: 'R6Maps.com - Stats BETA',
+        title: 'r6maps - eingabe.team - Stats',
+        titleBeta: 'r6maps - eingabe.team - Stats BETA',
         headerMain: 'Stats',
         headerMainBeta: 'Stats BETA',
         headerFilters: 'Filters',
