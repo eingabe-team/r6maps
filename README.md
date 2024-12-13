@@ -1,19 +1,11 @@
 # r6maps
-[![Build Status](https://travis-ci.com/eingabe-team/r6maps.svg?branch=master)](https://travis-ci.com/eingabe-team/r6maps)
+![Vercel](https://vercelbadge.vercel.app/api/eingabe-team/r6maps)
 
-**Newest version now auto-hosted at https://eingabe-team.github.io/r6maps**
+**Hosted at http://eingabe.team**
 
-r6maps is designed to be a quick reference for Rainbow Six Siege maps.  Please see the about.html page for more details.
+r6maps is designed to be a quick reference for Rainbow Six Siege maps. Please see the about.html page for more details.
 
 ## Running locally
-
-### Dependencies
-- [npm/Nodejs](https://www.npmjs.com/get-npm)
-- [Ruby](https://www.ruby-lang.org/en/)
-    + [gem](https://rubygems.org/pages/download)
-    + sass (`gem install sass`)
-
-To check the dependencies, just type `scss`. If the program waits for input, your dependencies are installed correctly.
 
 ### Building and running
 - Install npm and install packages: `npm install`
